@@ -1,6 +1,6 @@
 <html>
 <body>
-
+<?php echo "HEllo World" ?>
  <?php
    
 	$user = $_POST["userName"];
